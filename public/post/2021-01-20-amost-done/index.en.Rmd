@@ -1,0 +1,26 @@
+---
+title: Amost Done
+author: Erika Machado
+date: '2021-01-20'
+slug: []
+categories:
+  - R
+  - rstudio
+tags: []
+Description: ''
+Tags: []
+Categories: []
+DisableComments: no
+---
+
+## Header 1
+
+This is some text, I don't care
+
+## Header 2 - title of h2
+
+```{r}
+my_data <- mtcars
+plot(mtcars)
+```
+
